@@ -1,4 +1,7 @@
 <?php
+header('Content-Type: text/html; charset=UTF-8');
+
 echo "Hello Laravel!";
-$name="コニー";
-echo "$name.さん、ですか？";
+$name="ﾂコﾂニﾂー";
+echo "$name.窶塲や塲�ﾂ、窶堝ｹ窶堋ｷ窶堋ｩﾂ？";
+?>
